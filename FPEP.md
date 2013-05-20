@@ -479,3 +479,8 @@ It's rumored that Haskell is hard.  It's probably more accurate to say that Hask
 It's important to remember that no one was born knowing Haskell.  We all came to it out of curiosity and a sense of adventure.  You *will* have to study in order to get Haskell, but that's half of the fun.
 
 If you are ready to start learning the language, take a look at [Learn You a Haskell for Great Good](http://learnyouahaskell.com) and [Real World Haskell](http://book.realworldhaskell.org).  Check out the many tutorials here at [School of Haskell](https://www.fpcomplete.com/).  Find other resources at [haskell.org](http://haskell.org).  And download the [Haskell Platform](http://haskell.org/platform).  Have fun!
+
+**
+
+
+Feel free to help out or suggest improvements for this post on [github](https://github.com/ImAlsoGreg/FPEP/).

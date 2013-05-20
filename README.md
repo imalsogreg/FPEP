@@ -1,5 +1,7 @@
 ## Functional Programming Elevator Pitch ##
 
+See it in context [here](https://www.fpcomplete.com/user/imalsogreg/functional-programming-elevator-pitch).
+
 I wrote this because I found myself repeatedly trying to explain to my neuroscience friends why I'm using Haskell instead of Matlab.  I found that those talks went a lot better when I had ghci handy and could show them example code.  When trying to explain *without* ghci, I had a lot less luck.  So I thought it would be nice to have the Elevator Pitch with some working code examples, that Haskellers could use as a reference for curious inquirers, potential new hires, etc.
 
 The target audience is someone who hasn't really thought about FP, but might take interest if shown a couple fun examples.  The goal is to get more people into FP and Haskell, for their own benefit (I was really glad when someone told *me* about it!), and so that we might have more enthusiasns who could grow up into maintainers.
